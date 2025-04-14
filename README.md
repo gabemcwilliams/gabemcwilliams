@@ -5,6 +5,7 @@ Currently transitioning into ML and edge inference after years of building polic
 
 
 ---
+<br>
 
 ## Current Focus
 
@@ -14,6 +15,8 @@ Currently transitioning into ML and edge inference after years of building polic
 - Long-term trajectory toward **Edge AI**, **CNNs**, and **Reinforcement Learning**
 
 ---
+<br>
+
 
 ## Roles I've Played
 
@@ -30,6 +33,7 @@ Currently transitioning into ML and edge inference after years of building polic
 - Peer reviewer for infrastructure and automation across cross-functional tech projects
 
 ---
+<br>
 
 ## Supporting Domain Knowledge
 
@@ -55,6 +59,7 @@ Additional domain knowledge:
 - Ticketing & PSA Tools
 
 ---
+<br>
 
 ## Current Project Ambitions
 
@@ -84,6 +89,7 @@ My personal and professional roadmap includes:
 
 
 ---
+<br>
 
 ## Contact
 
@@ -92,3 +98,4 @@ My personal and professional roadmap includes:
 - **Email:** gabe@gabemcwilliams.info
 
 ---
+<br>
