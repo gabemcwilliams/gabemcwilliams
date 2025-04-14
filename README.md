@@ -37,16 +37,19 @@ infrastructure and analytics tools.
 
 ## Supporting Domain Knowledge
 
-My domain experience spans both deep technical focus and broad cross-functional exposure.
+My domain experience spans deep technical systems and broad cross-functional delivery.
 
-**Core focus interests:**
+**Core focus areas:**
 
-- Backend development & automation (FastAPI, authentication, API integration)
-- Authentication systems (JWT, sessions, OAuth, TOTP)
-- Data engineering (ETL, API ingestion, feature engineering, Postgres-based marts and pipelines)
-- MLOps
-- Business Ops
-- Platform engineering (Kubernetes, MLflow, Vault, Prefect, NGINX, MinIO)
+- **Backend development & automation** – FastAPI services, API integration, secure token/session management
+- **Authentication systems** – JWT, OAuth2, TOTP, session handling across user and machine auth
+- **Data engineering**
+    - Orchestrated ETL from authenticated APIs, login-based frontends, and web-scraped data
+    - Intermediate processing in Pandas for join logic and schema enforcement
+    - Postgres-based Kimball and OBT modeling for ML-ready pipelines
+- **MLOps** – Model versioning, deployment, and orchestration with MLflow and Prefect
+- **Business operations integration** – Automation tied to operational events and client infrastructure state
+- **Platform engineering** – Kubernetes (exploratory), Vault, NGINX, MinIO, artifact pipelines, and job orchestration
 
 **Additional domain knowledge:**
 
@@ -57,10 +60,11 @@ My domain experience spans both deep technical focus and broad cross-functional 
 - Security & DevSecOps (RBAC, secrets, tenant policy)
 - Backup & disaster recovery
 - O365 / Exchange administration
-- Observability
+- Observability (Grafana, Loki, logging systems)
 - Ticketing & PSA workflows
 
 ---
+
 <br>
 
 ## Current Project Ambitions
