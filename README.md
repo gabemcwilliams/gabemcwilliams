@@ -205,9 +205,10 @@ data models, consistent pipelines, and actionable insights.
 
 ## Contact
 
-- **GitHub** [@gabemcwilliams](https//github.com/gabemcwilliams)
-- **LinkedIn** [linkedin.com/in/gabemcwilliams](https//www.linkedin.com/in/gabemcwilliams)
-- **Email** gabe@gabemcwilliams.info
+- **GitHub**: [@gabemcwilliams](https://github.com/gabemcwilliams)
+- **LinkedIn**: [linkedin.com/in/gabemcwilliams](https://www.linkedin.com/in/gabemcwilliams)
+- **Email**: gabe@gabemcwilliams.info
+
 
 <br>
 
