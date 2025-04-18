@@ -59,13 +59,15 @@ My domain experience spans deep technical systems and broad cross-functional del
     - Orchestrated ETL from authenticated APIs, login-based frontends, and web-scraped data
     - Intermediate processing in Pandas for join logic and schema enforcement
     - Postgres-based Kimball and OBT modeling for ML-ready pipelines
+
+
 - **MLOps** – Model versioning, deployment, and orchestration with MLflow and Prefect
 - **Business operations integration** – Automation tied to operational events and client infrastructure state
 - **Platform engineering** – Kubernetes (exploratory), Vault, NGINX, MinIO, artifact pipelines, and job orchestration
 
 <br>
 
-#### **Additional domain knowledge**
+### **Additional domain knowledge**
 
 - Frontend development (React, D3.js, dashboard tooling)
 - Systems & endpoint management
@@ -124,7 +126,9 @@ and hands-on machine learning coursework.
 
 - Deep learning model development with PyTorch (in progress)
 
- **TensorFlow & Keras**
+<br>
+
+**TensorFlow & Keras**
 
 - Regression, classification, and multi-class problems with Keras
 
@@ -144,6 +148,8 @@ and hands-on machine learning coursework.
 
 - Hands-on TensorFlow model training and experiment tracking
 
+<br>
+
 **Supporting Tools & Frameworks**
 
 - Prefect.io – for ML- and DE-adjacent orchestration
@@ -151,6 +157,8 @@ and hands-on machine learning coursework.
 - Vault, MinIO, and PostgreSQL – for secure ML pipelines
 
 - Streamlit, Seaborn, Matplotlib, Plotly – for EDA and experiment visualization
+
+<br>
 
 **Next steps include**
 
@@ -182,6 +190,8 @@ data models, consistent pipelines, and actionable insights.
 - **Compliant by design** – using internally developed automation for lifecycle events like deprovisioning, offboarding,
   and reporting
 
+<br>
+
 **This vision informs how I build**
 
 - Observability pipelines that collect, transform, and interpret data from diverse sources
@@ -189,6 +199,8 @@ data models, consistent pipelines, and actionable insights.
 - Feature engineering techniques that unify and enhance fragmented data sets
 - ML workflows that train models to make proactive, scalable predictions
 - Reproducible ML pipelines designed for deployment and long-term support
+
+<br>
 
 **My personal and professional roadmap includes**
 
@@ -208,7 +220,6 @@ data models, consistent pipelines, and actionable insights.
 - **GitHub**: [@gabemcwilliams](https://github.com/gabemcwilliams)
 - **LinkedIn**: [linkedin.com/in/gabemcwilliams](https://www.linkedin.com/in/gabemcwilliams)
 - **Email**: gabe@gabemcwilliams.info
-
 
 <br>
 
