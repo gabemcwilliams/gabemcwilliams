@@ -1,3 +1,6 @@
+**🧠 ML-first developer and platform architect building secure, production-grade systems for automation, inference, and
+edge intelligence.**
+
 # 👋 About Me — Gabe McWilliams
 
 Developer and architect with 20+ years in IT and a focus on data-driven automation and platform design.<br>
@@ -18,6 +21,14 @@ infrastructure and analytics tools.
 - **ML pipeline development** with PyTorch, FastAPI, and MLflow
 - **Secure data handling** across multi-client infrastructures
 - Long-term trajectory toward **Edge AI**, **CNNs**, and **Reinforcement Learning**
+
+<br>
+
+
+**Selected repositories:**
+- [`prefect-data-orchestration`](https://github.com/gabemcwilliams/prefect-data-orchestration) – ETL and ML orchestration with Prefect, Vault, Postgres, and MinIO
+- [`service-templates`](https://github.com/gabemcwilliams/service-templates) – FastAPI, MLflow, and Vault-ready backend scaffolding
+- `notebook-lab` – PyTorch and classical ML experimentation (*coming soon*)
 
 <br>
 
