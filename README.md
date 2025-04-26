@@ -30,6 +30,8 @@ infrastructure and analytics tools.
 - [`infra-service-backend`](https://github.com/gabemcwilliams/infra-service-backend) – Cleaned and tested configs from a real production ML + ETL stack — includes secure, deployable templates for Prefect, MLflow, Vault, Postgres, and more.
 - [`notebooks-devops-data-automation`](https://github.com/gabemcwilliams/notebooks-devops-data-automation) – A collection of exploratory notebooks covering data engineering, DevOps, security automation, and API integrations in Python.
 - [`math-machine-learning`](https://github.com/gabemcwilliams/math-machine-learning) – Foundational notebooks covering calculus, linear algebra, and probability/statistics to support machine learning understanding and implementation.
+- [`classical-ml-scikit-learn`](https://github.com/gabemcwilliams/classical-ml-scikit-learn) – Core machine learning workflows using scikit-learn: clustering, dimensionality reduction (PCA), and regression models with evaluation metrics.
+
 
 
 <br>
