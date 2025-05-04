@@ -26,14 +26,25 @@ infrastructure and analytics tools.
 
 
 **Selected repositories:**
-- [`data-orchestration-prefect-etl`](https://github.com/gabemcwilliams/data-orchestration-prefect-etl) – End-to-end ETL and data automation using Prefect.io with Vault, MinIO, and Postgres — secure, orchestrated pipelines for real-world API and scrape-based sources.
-- [`infra-service-backend`](https://github.com/gabemcwilliams/infra-service-backend) – Cleaned and tested configs from a real production ML + ETL stack — includes secure, deployable templates for Prefect, MLflow, Vault, Postgres, and more.
-- [`notebooks-devops-data-automation`](https://github.com/gabemcwilliams/notebooks-devops-data-automation) – A collection of exploratory notebooks covering data engineering, DevOps, security automation, and API integrations in Python.
-- [`math-machine-learning`](https://github.com/gabemcwilliams/math-machine-learning) – Foundational notebooks covering calculus, linear algebra, and probability/statistics to support machine learning understanding and implementation.
-- [`classical-ml-scikit-learn`](https://github.com/gabemcwilliams/classical-ml-scikit-learn) – Core machine learning workflows using scikit-learn: clustering, dimensionality reduction (PCA), and regression models with evaluation metrics.
-- [`deep-learning-tensorflow-keras`](https://github.com/gabemcwilliams/deep-learning-tensorflow-keras) – Deep learning examples in TensorFlow and Keras, including CNNs, RNNs, GANs, autoencoders, and NLP pipelines — structured as modular, educational Jupyter notebooks.
 
+- [`infra-service-backend`](https://github.com/gabemcwilliams/infra-service-backend)  
+  Clean, deployable service templates for ML pipelines — includes Prefect, MLflow, Vault, Postgres, and secure
+  orchestration infrastructure.
 
+- [`data-orchestration-prefect-etl`](https://github.com/gabemcwilliams/data-orchestration-prefect-etl)  
+  Real-world ETL pipelines using Prefect with Vault, MinIO, and Postgres — designed for API and scrape-based automation.
+
+- [`classical-ml-scikit-learn`](https://github.com/gabemcwilliams/classical-ml-scikit-learn)  
+  Structured pipelines using scikit-learn — covering regression, classification, clustering, dimensionality reduction,
+  and model evaluation.
+
+- [`deep-learning-pytorch`](https://github.com/gabemcwilliams/deep-learning-pytorch)  
+  Hands-on deep learning with PyTorch — CNNs, classification, modular training, transfer learning, and experiment
+  tracking with MLflow.
+
+- [`math-machine-learning`](https://github.com/gabemcwilliams/math-machine-learning)  
+  Foundational math notebooks for ML — covering calculus, linear algebra, and probability/statistics to support
+  algorithmic understanding.
 
 <br>
 
@@ -99,94 +110,6 @@ My domain experience spans deep technical systems and broad cross-functional del
 
 ---
 
-<br>
-
-## Learning Foundations & Machine Learning Coursework
-
-I’ve taken a deep self-study path to support my ML and engineering work. This includes formal study in math fundamentals
-and hands-on machine learning coursework.
-
-<br>
-
-### **Math Foundations**
-
-- Calculus I (complete)
-
-- Linear Algebra & Matrix Algebra (complete)
-
-- Probability and Statistics (complete)
-
-- Discrete Math & Real Analysis (in progress)
-
-<br> 
-
-### **Machine Learning Coursework**
-
-**Core ML**
-
-- Supervised and unsupervised learning with scikit-learn
-- Classical algorithms - Linear/Logistic Regression, K-Nearest Neighbors, Decision Trees, Random Forests, SVM, KMeans,
-  DBSCAN
-
-- Dimensionality reduction techniques - PCA, t-SNE, clustering
-
-- Binary and multi-class classification pipelines
-
-- Confusion matrices, decision boundaries, and metric visualizations
-
-- Evaluation metrics and training diagnostics - accuracy, precision, recall, and F1-score tracking
-
-- Custom loss functions and early stopping logic
-
-- Model deployment using MLflow, FastAPI, and ONNX
-
-- Deep learning model development with PyTorch (in progress)
-
-<br>
-
-**TensorFlow & Keras**
-
-- Regression, classification, and multi-class problems with Keras
-
-- Convolutional Neural Networks (CNNs) on real-world and CIFAR-10 datasets
-
-- RNNs and sequence modeling using Keras
-
-- Autoencoders and dimensionality reduction
-
-- NLP fundamentals with Keras
-
-- GANs (Generative Adversarial Networks) theory and implementation
-
-- Model deployment with TensorFlow Serving and Flask
-
-- Feature map visualization to inspect convolutional layers
-
-- Hands-on TensorFlow model training and experiment tracking
-
-<br>
-
-**Supporting Tools & Frameworks**
-
-- Prefect.io – for ML- and DE-adjacent orchestration
-
-- Vault, MinIO, and PostgreSQL – for secure ML pipelines
-
-- Streamlit, Seaborn, Matplotlib, Plotly – for EDA and experiment visualization
-
-<br>
-
-**Next steps include**
-
-- Deployment-ready microservices for inference using FastAPI
-
-- Live demos using ONNX and pre-trained models for CPU inference
-
-- Exploration of reinforcement learning, CNNs, and edge inference
-
-<br>
-
----
 
 <br>
 
@@ -218,14 +141,15 @@ data models, consistent pipelines, and actionable insights.
 
 <br>
 
-**My personal and professional roadmap includes**
+**My personal and professional roadmap:**
 
-- Applying systems and monitoring experience to build **resilient, production-ready ML platforms**
-- Evolving from batch jobs and scheduled automation into **real-time inference and event-driven action**
-- Expanding into **edge AI and robotics**, using learned thresholds and local inference for **autonomous decision-making
-  at scale**
+- Leverage systems and monitoring expertise to deliver **resilient, production-grade ML platforms**
+- Transition from scheduled automation to **real-time inference and event-driven architectures**
+- Advance into **edge AI and robotics**, applying local inference and threshold-based logic for **autonomous, scalable
+  decision-making**
 
 <br>
+
 
 ---
 
