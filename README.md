@@ -3,9 +3,8 @@ edge intelligence.**
 
 # 👋 About Me — Gabe McWilliams
 
-Developer and architect with 20+ years in IT and a focus on data-driven automation and platform design.<br>
-Currently transitioning into ML and edge inference after years of building policy, systems, and decision logic into
-infrastructure and analytics tools.
+Developer and architect with 20+ years in IT and a focus on platform engineering, automation, and data-driven infrastructure.
+Currently specializing in deep learning, edge AI, and sensor-driven inference pipelines after years of designing secure backend systems and operational frameworks.
 
 <br>
 
@@ -15,12 +14,12 @@ infrastructure and analytics tools.
 
 ## Current Focus
 
-<br>
-
-- **ETL + ML orchestration** with Prefect, Vault, Postgres, and MinIO
-- **ML pipeline development** with PyTorch, FastAPI, and MLflow
-- **Secure data handling** across multi-client infrastructures
-- Long-term trajectory toward **Edge AI**, **CNNs**, and **Reinforcement Learning**
+- **ML orchestration** with Prefect, Vault, Postgres, and MinIO  
+- **End-to-end pipelines** using PyTorch, FastAPI, and MLflow  
+- **Object detection and CNN-based classification** for real-world camera inputs  
+- **Edge AI development** with ESP32-class devices and sensor fusion  
+- **Interactive frontends** built with Next.js and D3.js for visualization and control  
+- Long-term focus on **autonomous systems**, **embedded ML**, and **robotic decision-making**
 
 <br>
 
