@@ -54,17 +54,17 @@ Currently specializing in deep learning, edge AI, and sensor-driven inference pi
 
 <br>
 
-- Director of Infrastructure
-- Principal developer and system architect
-- Technical lead and team manager
-- Contract, project-based, and internal IT architecture operations lead
-- Backend developer for scripting, monitoring, deployment, and vulnerability remediation
-- Data engineering principal
-- ML developer and platform owner
-- Infrastructure and data observability principal
-- Product owner for internal and third-party integrations
-- Author of SOPs and operational standards for internally managed systems and client deployments
-- Peer reviewer for infrastructure and automation across cross-functional tech projects
+- **Director of Infrastructure**  
+- **Principal Developer and System Architect**  
+- **Technical Lead and Team Manager**  
+- **Lead on Internal IT Architecture, Data Operations, and Platform Automation**  
+- **Backend Developer for Scripting, Monitoring, Deployment, and Vulnerability Remediation**  
+- **Data Engineering Lead for Secure Ingestion, Schema Design, and Delivery Pipelines**  
+- **ML Pipeline Developer Focused on Platform Integration and Reproducibility**  
+- **Infrastructure and Data Observability Systems Designer**  
+- **Product Owner for Internal Integrations and Third-Party Tooling**  
+- **Documentation Author for SOPs and Operational Standards**  
+- **Peer Reviewer for Infrastructure, Automation, and CI/CD Across Cross-Functional Projects**
 
 <br>
 
