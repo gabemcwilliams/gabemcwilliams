@@ -14,12 +14,13 @@ Currently specializing in deep learning, edge AI, and sensor-driven inference pi
 
 ## Current Focus
 
-- **ML orchestration** with Prefect, Vault, Postgres, and MinIO  
-- **End-to-end pipelines** using PyTorch, FastAPI, and MLflow  
-- **Object detection and CNN-based classification** for real-world camera inputs  
-- **Edge AI development** with ESP32-class devices and sensor fusion  
-- **Interactive frontends** built with Next.js and D3.js for visualization and control  
-- Long-term focus on **autonomous systems**, **embedded ML**, and **robotic decision-making**
+- Designing full-stack **machine learning pipelines** with PyTorch, MLflow, and FastAPI
+- Orchestrating data and model workflows using **Prefect**, **Vault**, **Postgres**, and **MinIO**
+- Developing **real-world vision systems** with CNN-based classification and object detection
+- Building **edge AI solutions** on ESP32-class devices with multi-sensor fusion and local inference
+- Creating **interactive frontends** with Next.js and D3.js for control interfaces and data visualization
+- Advancing toward **autonomous systems**, **embedded ML**, and **robotic decision-making**
+
 
 <br>
 
@@ -71,39 +72,73 @@ Currently specializing in deep learning, edge AI, and sensor-driven inference pi
 ---
 <br>
 
-## Supporting Domain Knowledge
+## Technical Domains
 
-My domain experience spans deep technical systems and broad cross-functional delivery.
-
-<br>
-
-### **Core focus areas**
-
-- **Backend development & automation** – FastAPI services, API integration, secure token/session management
-- **Authentication systems** – JWT, OAuth2, TOTP, session handling across user and machine auth
-- **Data engineering**
-    - Orchestrated ETL from authenticated APIs, login-based frontends, and web-scraped data
-    - Intermediate processing in Pandas for join logic and schema enforcement
-    - Postgres-based Kimball and OBT modeling for ML-ready pipelines
-
-
-- **MLOps** – Model versioning, deployment, and orchestration with MLflow and Prefect
-- **Business operations integration** – Automation tied to operational events and client infrastructure state
-- **Platform engineering** – Kubernetes (exploratory), Vault, NGINX, MinIO, artifact pipelines, and job orchestration
+I build scalable systems by applying broad technical experience and a deep grasp of the ML lifecycle, from ingestion to deployment.
 
 <br>
 
-### **Additional domain knowledge**
+### **Areas of Focus**
 
-- Frontend development (React, D3.js, dashboard tooling)
-- Systems & endpoint management
+- **Backend development & automation**  
+  - FastAPI service development and API integration  
+  - Task queuing and background jobs with Celery and Redis  
+  - Service orchestration and messaging between microservices  
+
+
+- **Authentication systems**  
+  - OAuth2 / OpenID Connect (OIDC)  
+  - MSAL (Microsoft Authentication Library for Azure AD / Entra ID)  
+  - SAML 2.0 (enterprise SSO and identity federation)  
+  - JWT (JSON Web Tokens) with custom claims  
+  - TOTP (Time-based One-Time Passwords) for MFA  
+  - Secure session management (cookie- and token-based)  
+  - Token lifecycle handling (refresh, expiration, revocation)  
+  - RBAC / ABAC (role- and attribute-based access control)  
+  - User and machine-to-machine authentication  
+
+
+- **Data Engineering**  
+  - Orchestrated ETL from authenticated APIs, login-based frontends, and web-scraped data  
+  - Intermediate processing with Pandas for join logic, cleanup, and schema enforcement  
+  - Scalable pipelines using Apache Spark and PySpark for distributed data processing  
+  - Workflow orchestration with Prefect, including retries, triggers, and state tracking  
+  - Postgres-based Kimball and OBT modeling for ML-ready pipelines  
+  - File-based I/O using Parquet, JSONL, and CSV  
+  - Object storage with MinIO (S3-compatible) for data lakes and model artifacts  
+  - Schema validation and enforcement with `pydantic` for API and pipeline input consistency
+  - Early-stage work with Kafka and MQTT for real-time and event-driven ingestion  
+  - Data versioning and lineage tracking (planned: DVC, Delta Lake for Databricks)
+
+
+- **MLOps & Platform Automation**  
+  - Model versioning and experiment tracking with MLflow  
+  - CI/CD deployment of models with Prefect and FastAPI  
+  - Containerization with Docker, orchestration with Kubernetes (exploratory)  
+  - Secure storage and service credentials with Vault  
+  - Artifact pipelines, scheduled jobs, and failure-aware execution  
+
+
+- **Frontend engineering & visualization**  
+  - Dashboard UIs and control panels using React and D3.js  
+  - Data apps and visual pipelines using Streamlit and Plotly  
+  - JSON/state-driven visual updates and user interaction modeling  
+
+
+<br>
+
+### **Additional Expertise**
+
+- Systems & endpoint management (Windows, Linux, Active Directory, Group Policy, Intune)
 - Cloud infrastructure & IaC (Terraform, AWS, Azure)
+- Hybrid identity and access management (Azure AD, AD Connect, conditional access policies)
 - Networking (VPN, VLAN, routing)
-- Security & DevSecOps (RBAC, secrets, tenant policy)
+- Security & DevSecOps (RBAC, secrets management, tenant policy enforcement)
 - Backup & disaster recovery
 - O365 / Exchange administration
-- Observability (Grafana, Loki, logging systems)
-- Ticketing & PSA workflows
+- Observability and logging (Grafana, Loki, Promtail, custom logging systems)
+- Ticketing & PSA workflows (internal tooling, vendor escalation pipelines)
+
 
 <br>
 
