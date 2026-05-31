@@ -1,9 +1,9 @@
-🧠 ML-first developer and platform architect building secure, production-grade systems for automation, inference, and edge intelligence.
+ML-first developer and platform architect building secure, production-grade systems for automation, inference, semantic search, and edge intelligence.
 
-# 👋 About Me — Gabe McWilliams
+# About Me — Gabe McWilliams
 
-Developer and architect with 20+ years in IT and a focus on platform engineering, automation, and data-driven infrastructure.  
-Currently specializing in deep learning, edge AI, and sensor-driven inference pipelines after years of designing secure backend systems and operational frameworks.
+Developer and architect with 20+ years in IT, focused on platform engineering, automation, applied machine learning, and data-driven infrastructure.  
+Currently building applied ML, semantic search, orchestration, and edge-inference systems on top of secure backend infrastructure and production data workflows.
 
 <br>
 
@@ -11,19 +11,21 @@ Currently specializing in deep learning, edge AI, and sensor-driven inference pi
 
 # What I'm Working On Right Now
 
-- Designing full-stack machine learning pipelines with PyTorch, MLflow, and FastAPI  
-- Orchestrating data and model workflows using Prefect, Vault, Postgres, and MinIO  
-- Developing real-world vision systems with CNN-based classification and object detection  
-- Building edge AI solutions on ESP32-class devices with multi-sensor fusion and local inference  
-- Creating interactive frontends with Next.js and D3.js for control interfaces and data visualization  
-- Advancing toward autonomous systems, embedded ML, and robotic decision-making
+- Building applied ML systems for semantic matching, entity extraction, classification, and decision support  
+- Developing NLP and embedding pipelines using transformer models, Qdrant vector search, and structured token classification  
+- Designing ML workflows with PyTorch, scikit-learn, MLflow, FastAPI, and reproducible experiment patterns  
+- Orchestrating data, model, and ingestion workflows using Prefect, Vault, Postgres, MinIO, and GitHub Actions  
+- Developing internal data-platform patterns with Apache Iceberg, Spark, feature-store concepts, and Feast-oriented ML data workflows  
+- Creating interactive frontends with Next.js, React, Zustand, and D3.js for control interfaces and data visualization  
+- Building edge AI and sensor-driven systems with ESP32-class devices, local inference patterns, and bounded automation  
+- Advancing toward autonomous systems, embedded ML, and robotic decision-making  
 
 <br>
 
 ## Showcased Repos
 
 - [`infra-service-backend`](https://github.com/gabemcwilliams/infra-service-backend)  
-  Clean, deployable service templates for ML pipelines — includes Prefect, MLflow, Vault, Postgres, and secure orchestration infrastructure.
+  Service templates and infrastructure patterns for ML-adjacent pipelines — includes Prefect, MLflow, Vault, Postgres, and secure orchestration infrastructure.
 
 - [`data-orchestration-prefect-etl`](https://github.com/gabemcwilliams/data-orchestration-prefect-etl)  
   Real-world ETL pipelines using Prefect with Vault, MinIO, and Postgres — designed for API and scrape-based automation.
@@ -47,13 +49,10 @@ Currently specializing in deep learning, edge AI, and sensor-driven inference pi
 - Principal Developer and System Architect  
 - Technical Lead and Team Manager  
 - Lead on Internal IT Architecture, Data Operations, and Platform Automation  
-- Backend Developer for Scripting, Monitoring, Deployment, and Vulnerability Remediation  
 - Data Engineering Lead for Secure Ingestion, Schema Design, and Delivery Pipelines  
 - ML Pipeline Developer Focused on Platform Integration and Reproducibility  
 - Infrastructure and Data Observability Systems Designer  
 - Product Owner for Internal Integrations and Third-Party Tooling  
-- Documentation Author for SOPs and Operational Standards  
-- Peer Reviewer for Infrastructure, Automation, and CI/CD Across Cross-Functional Projects
 
 <br>
 
@@ -61,76 +60,80 @@ Currently specializing in deep learning, edge AI, and sensor-driven inference pi
 
 # Areas of Technical Focus
 
-I build scalable systems by applying broad technical experience and a deep grasp of the ML lifecycle, from ingestion to deployment.
+I build scalable systems across infrastructure, data, software, and applied machine learning, with a focus on secure production workflows from ingestion to deployment.
 
 <br>
 
-## Backend Development & Automation
+## Infrastructure & Operations
 
+- Windows, Linux, Active Directory, Group Policy, Intune, and endpoint management  
+- O365 / Exchange administration and tenant policy enforcement  
+- Backup, disaster recovery, patching, vulnerability remediation, and operational standards  
+- Observability and logging with Grafana, Loki, Promtail, and custom logging systems  
+- Ticketing, PSA, RMM, vendor workflow, and internal tooling integrations  
+
+<br>
+
+## Networking & Security
+
+- VPN, VLAN, routing, firewall-aware system design, and hybrid network operations  
+- RBAC, secrets management, service credentials, and secure access patterns  
+- OAuth2 / OpenID Connect, SAML 2.0, JWT, TOTP, and secure session management  
+- MSAL, Entra ID / Azure AD, AD Connect, conditional access, and identity federation  
+- User, service, and machine-to-machine authentication  
+
+<br>
+
+## Cloud & Platform Engineering
+
+- DigitalOcean, Vercel, AWS, Azure, Docker, and Linux-based service deployment  
+- Object storage, CDN-backed file delivery, droplets, reverse proxying, and domain-based app hosting  
 - FastAPI service development and API integration  
-- Task queuing and background jobs with Celery and Redis  
-- Service orchestration and messaging between microservices
-
-<br>
-
-## Authentication Systems
-
-- OAuth2 / OpenID Connect (OIDC)  
-- MSAL (Microsoft Authentication Library for Azure AD / Entra ID)  
-- SAML 2.0 (enterprise SSO and identity federation)  
-- JWT (JSON Web Tokens) with custom claims  
-- TOTP (Time-based One-Time Passwords) for MFA  
-- Secure session management (cookie- and token-based)  
-- Token lifecycle handling (refresh, expiration, revocation)  
-- RBAC / ABAC (role- and attribute-based access control)  
-- User and machine-to-machine authentication
+- Backend service design for ingestion, inference, metadata, and internal automation  
+- Celery, Redis, background jobs, and service orchestration  
+- GitHub Actions for CI/CD, workflow images, service builds, tests, and registry publishing  
+- Kubernetes concepts for container orchestration, service deployment, scaling, and workload management  
 
 <br>
 
 ## Data Engineering
 
-- Orchestrated ETL from authenticated APIs, login-based frontends, and web-scraped data  
-- Intermediate processing with Pandas for join logic, cleanup, and schema enforcement  
-- Scalable pipelines using Apache Spark and PySpark for distributed data processing  
-- Workflow orchestration with Prefect, including retries, triggers, and state tracking  
-- Postgres-based Kimball and OBT modeling for ML-ready pipelines  
-- File-based I/O using Parquet, JSONL, and CSV  
-- Object storage with MinIO (S3-compatible) for data lakes and model artifacts  
-- Schema validation and enforcement with `pydantic` for API and pipeline input consistency  
-- Early-stage work with Kafka and MQTT for real-time and event-driven ingestion  
-- Data versioning and lineage tracking (planned: DVC, Delta Lake for Databricks)
+- ETL from authenticated APIs, SaaS platforms, login-based frontends, and web-scraped data  
+- Pandas and Polars for joins, cleanup, normalization, and schema enforcement  
+- Postgres modeling for operational data, OBT patterns, and ML-ready datasets  
+- Parquet, JSONL, CSV, Arrow-oriented workflows, and object storage with MinIO/S3-compatible systems  
+- Prefect orchestration with retries, scheduling, state tracking, and failure handling
+- Data extraction using authenticated APIs, browser automation, HTML parsing, OCR-assisted ingestion, and structured file processing  
+- Kafka, MQTT, Spark, Apache Iceberg, and Feast-oriented feature workflows  
 
 <br>
 
-## MLOps & Platform Automation
+## MLOps & Applied ML
 
-- Model versioning and experiment tracking with MLflow  
-- CI/CD deployment of models with Prefect and FastAPI  
-- Containerization with Docker, orchestration with Kubernetes (exploratory)  
-- Secure storage and service credentials with Vault  
-- Artifact pipelines, scheduled jobs, and failure-aware execution
-
-<br>
-
-## Frontend Engineering & Visualization
-
-- Dashboard UIs and control panels using React and D3.js  
-- Data apps and visual pipelines using Streamlit and Plotly  
-- JSON/state-driven visual updates and user interaction modeling
+- MLflow for model versioning, experiment tracking, and reproducibility  
+- PyTorch and scikit-learn workflows for classification, evaluation, and model development  
+- FastAPI-based inference services with structured model loading and environment-based configuration  
+- spaCy, transformer models, embeddings, and structured token classification  
+- Qdrant vector search, semantic matching, similarity retrieval, and entity extraction  
+- Artifact pipelines, scheduled jobs, and failure-aware execution  
 
 <br>
 
-## Additional Expertise
+## Software Engineering & Visualization
 
-- Systems & endpoint management (Windows, Linux, Active Directory, Group Policy, Intune)  
-- Cloud infrastructure & IaC (Terraform, AWS, Azure)  
-- Hybrid identity and access management (Azure AD, AD Connect, conditional access policies)  
-- Networking (VPN, VLAN, routing)  
-- Security & DevSecOps (RBAC, secrets management, tenant policy enforcement)  
-- Backup & disaster recovery  
-- O365 / Exchange administration  
-- Observability and logging (Grafana, Loki, Promtail, custom logging systems)  
-- Ticketing & PSA workflows (internal tooling, vendor escalation pipelines)
+- Python, FastAPI, React, Next.js, Zustand, D3.js, and TypeScript-based application work  
+- API-first internal tools, dashboards, control panels, and data visualization interfaces  
+- Streamlit and Plotly for data apps, visual pipelines, and exploratory interfaces  
+- JSON/state-driven visual updates and user interaction modeling  
+
+<br>
+
+## IoT, Edge AI & Robotics
+
+- ESP32-class sensor systems, local automation, and bounded device control  
+- Sensor-driven inference patterns for environmental monitoring and physical feedback loops  
+- Edge AI workflows involving local inference, device constraints, and embedded ML patterns  
+- Robotics-oriented development involving sensors, motion, vision, local inference, and adaptive behavior  
 
 <br>
 
@@ -138,35 +141,17 @@ I build scalable systems by applying broad technical experience and a deep grasp
 
 # Where I'm Taking Things
 
-My current work is focused on building systems that are not just automated, but unified and predictive, with centralized data models, consistent pipelines, and actionable insights.
+My work is moving from infrastructure and scheduled automation toward unified data platforms, ML-ready pipelines, semantic retrieval, and event-driven inference systems.
 
 <br>
 
-## Key Design Themes
+## Current Direction
 
-- Client-aware – surfacing contextual data across endpoints, alerts, tickets, usage, time, and human responses  
-- Self-auditing – producing consistent, exportable records of service coverage and gaps  
-- Proactive – identifying patterns and triggers before reactive support is needed  
-- Unified – drawing from a single dataset to enable operational clarity across teams  
-- Compliant by design – using internally developed automation for lifecycle events like deprovisioning, offboarding, and reporting
-
-<br>
-
-## How I Build
-
-- Observability pipelines that collect, transform, and interpret data from diverse sources  
-- ETL and orchestration systems with feedback loops and failure awareness  
-- Feature engineering techniques that unify and enhance fragmented data sets  
-- ML workflows that train models to make proactive, scalable predictions  
-- Reproducible ML pipelines designed for deployment and long-term support
-
-<br>
-
-## My Roadmap
-
-- Leverage systems and monitoring expertise to deliver resilient, production-grade ML platforms  
-- Transition from scheduled automation to real-time inference and event-driven architectures  
-- Advance into edge AI and robotics, applying local inference and threshold-based logic for autonomous, scalable decision-making
+- Build centralized data models that connect operational, client, endpoint, ticketing, and service data  
+- Design orchestration workflows that are observable, reproducible, and failure-aware  
+- Use feature engineering, semantic search, and applied ML to turn fragmented data into decision-support systems  
+- Move from batch automation toward real-time inference, event-driven workflows, and edge-aware systems  
+- Extend platform, data, and ML experience into edge AI, IoT, and robotics-oriented development  
 
 <br>
 
