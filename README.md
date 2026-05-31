@@ -1,6 +1,6 @@
 ML-first developer and platform architect building secure, production-grade systems for automation, inference, semantic search, and edge intelligence.
 
-# About Me — Gabe McWilliams
+# About Me · Gabe McWilliams
 
 Developer and architect with 20+ years in IT, focused on platform engineering, automation, applied machine learning, and data-driven infrastructure.  
 Currently building applied ML, semantic search, orchestration, and edge-inference systems on top of secure backend infrastructure and production data workflows.
