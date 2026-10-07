@@ -2,9 +2,8 @@
 
 Systems builder working across data ingestion, systems integration, retrieval, inference, automation, and product development.
 
-I build intelligent systems that connect **software, data, machine learning, and automation**, with a growing focus on bringing those systems into the **physical world**.
+I’m constantly striving to invent useful systems that connect **software, data, machine learning, and automation**, with a growing focus on bringing those systems into the **physical world**.
 
-*I’m constantly striving to invent useful systems that bring AI and robotics into everyday life in practical, natural ways.*
 
 ---
 
