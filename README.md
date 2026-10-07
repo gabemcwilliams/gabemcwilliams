@@ -8,19 +8,12 @@ I build intelligent systems that connect **software, data, machine learning, and
 
 ---
 
-
-
 <a href="https://darklycreative.com">
-  <img src="./assets/darkly-creative-icon.png" width="120" alt="Darkly Creative LLC">
+  <img src="./assets/darkly-creative-icon.png" width="96" alt="Darkly Creative LLC">
 </a>
+
+<br>
 
 **[Darkly Creative LLC](https://darklycreative.com)**  
 A privately held robotics and design company.
 
----
-
-## Contact
-
-* Portfolio: [gabemcwilliams.info](https://gabemcwilliams.info)
-* LinkedIn: [linkedin.com/in/gabemcwilliams](https://www.linkedin.com/in/gabemcwilliams)
-* Email: [gabe@gabemcwilliams.info](mailto:gabe@gabemcwilliams.info)
