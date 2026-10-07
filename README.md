@@ -8,11 +8,11 @@ I’m constantly striving to invent useful systems that connect **software, data
 ---
 
 <a href="https://darklycreative.com">
-  <img src="./assets/darkly-creative-icon.png" width="96" alt="Darkly Creative LLC">
+  <img src="./assets/darkly-creative-icon.png" width="120" alt="Darkly Creative LLC">
 </a>
 
 
-<p>&nbsp;</p>
+
 
 **[Darkly Creative LLC](https://darklycreative.com)**  
 A privately held robotics and design company.
