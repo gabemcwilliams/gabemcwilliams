@@ -2,9 +2,8 @@
 
 Systems builder working across data ingestion, systems integration, retrieval, inference, automation, and product development.
 
-I build intelligent systems that connect **software, data, machine learning, and automation**, with a growing focus on bringing those systems into the **physical world**.
+I’m constantly striving to invent useful systems that connect **software, data, machine learning, and automation**, with a growing focus on bringing those systems into the **physical world**.
 
-*I’m constantly striving to invent useful systems that bring AI and robotics into everyday life in practical, natural ways.*
 
 ---
 
@@ -12,7 +11,8 @@ I build intelligent systems that connect **software, data, machine learning, and
   <img src="./assets/darkly-creative-icon.png" width="96" alt="Darkly Creative LLC">
 </a>
 
-<br>
+
+<p>&nbsp;</p>
 
 **[Darkly Creative LLC](https://darklycreative.com)**  
 A privately held robotics and design company.
